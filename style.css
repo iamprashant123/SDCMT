@@ -283,3 +283,28 @@ h1 {
 .faculty .img {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
+.faculty .img1 p{
+   margin-left: 20%;
+    font-weight: bold;
+
+
+}
+.faculty .img1 h1{
+    font-size: 25px;
+}
+.faculty .img1{
+         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   
+}
+.last .img p{
+       margin-left: 20%;
+    font-weight: bold;
+}
+.last .img h1
+{
+     font-size: 28px;
+}
+
+.last .img{
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;  
+}
